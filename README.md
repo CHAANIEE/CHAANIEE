@@ -1,16 +1,18 @@
-## Hi there 👋
+Hi there, I'm Christian T. Lagula! 👋
 
-<!--
-**CHAANIEE/CHAANIEE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 About Me
+I'm a passionate Information Technology Student with a keen interest in Web Developement. I love building and learning new technologies that solve real-world problems.
 
-Here are some ideas to get you started:
+🔧 Tech Stack
+- 💻 Programming: Java,HTML,CSS
+- 🌐 Web Development: HTML,CSS
+- ⚙️ Tools: VS Code,NetBeans,Eclipes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+📫 Connect With Me
+- Email: christianlagula12345678@gmail.com
+
+🎯 Currently Studying at University of Mindanao Tagum
+- 🚀 Bachelor of Science in Information Technology
+
+Happy Coding! 🚀
