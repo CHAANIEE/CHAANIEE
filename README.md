@@ -1,12 +1,12 @@
 Hi there, I'm Christian T. Lagula! 👋
 
 🚀 About Me
-I'm a passionate Information Technology Student with a keen interest in Web Developement. I love building and learning new technologies that solve real-world problems.
+I'm a passionate Information Technology Student with a keen interest in Web Developement.
 
 🔧 Tech Stack
-- 💻 Programming: Java,HTML,CSS
-- 🌐 Web Development: HTML,CSS
-- ⚙️ Tools: VS Code,NetBeans,Eclipes
+- 💻 Programming: Java,Phyton,MySQL
+- 🌐 Web Development: Phyton
+- ⚙️ Tools: VS Code,NetBeans,DataGrip
 
 
 📫 Connect With Me
